@@ -21,6 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Expo](https://expo.io/)
 - [axios](https://github.com/axios/axios)
+- [json-server](https://www.npmjs.com/package/json-server)
 
 ## 💻 Projeto
 
@@ -61,6 +62,9 @@ $ yarn
 
 # run web app
 $ yarn start
+
+# run json-server
+$ json-server ./src\services\server.json --host número do Ip --port 3333 --delay 700
 ```
 
 
