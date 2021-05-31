@@ -37,7 +37,7 @@ Nos link abaixo você encontra o layout do projeto web.Precisa ter uma conta no 
 - [Layout Web](https://www.figma.com/file/7nh18T6yjududHKgY3DAP4/PlantManager-(Copy))
 
 
-<img alt="Logo do projeto" src="/" />
+<img alt="Logo do projeto" src="/assets/Plant-Gif.gif" />
 
 
 ## :joystick: How to Use
